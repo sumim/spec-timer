@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposablePresenterWithModel",
+	"category" : "Spec-Timer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"minButton",
+		"secButton",
+		"resetButton",
+		"startStopButton",
+		"logText",
+		"dispText"
+	],
+	"name" : "TimerApplication",
+	"type" : "normal"
+}

@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Model",
+	"category" : "Spec-Timer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isCountingUp",
+		"startSeconds",
+		"stopSeconds",
+		"isRunning",
+		"isBeeping",
+		"process",
+		"accessSema",
+		"counter"
+	],
+	"name" : "TimerModel",
+	"type" : "normal"
+}
